@@ -462,12 +462,6 @@ textarea {
 	padding: 0 5px;
 	text-align: center;
 }
-.work-heading {
-    text-align: right;
-}
-.education-heading {
-    text-align: left;
-}
 .media-body a {
     color: rgba(0, 0, 20, 0.9);
     font-weight: 700;
